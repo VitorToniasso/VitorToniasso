@@ -1,4 +1,4 @@
-- 👋 Olá, me chamo @VitorToniasso.
+- 👋 Olá, me chamo @Vitor.Toniasso
 - 👀  estou interessado em adquirir mais conhecimento, compartilhar meu progresso e viver disso.
 - 🌱 Estou no segundo semestre da faculdade de redes.
 - 💞️ Seria legal um estágio pra agregar no meu currículo.
