@@ -2,7 +2,7 @@
 - 👀  estou interessado em adquirir mais conhecimento, compartilhar meu progresso e viver disso.
 - 🌱 Estou no segundo semestre da faculdade de redes.
 - 💞️ Seria legal um estágio pra agregar no meu currículo.
-- 📫 Contato @Vitor.Toniasso -> vitor.toniasso@outook.com -> Discord AskMano#0124
+- 📫 Contato @Vitor.Toniasso -> vitor.toniasso@outook.com -> Discord Vtor_ô_Hugo
 
 <!---
 VitorToniasso/VitorToniasso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
