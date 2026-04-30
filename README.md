@@ -2,7 +2,7 @@
 - 👀  estou interessado em adquirir mais conhecimento, compartilhar meu progresso e viver disso.
 - 🌱 Estou no segundo semestre da faculdade de redes.
 - 💞️ Seria legal um estágio pra agregar no meu currículo.
-- 📫 Contato @Vitor.Toniasso -> vitor.toniasso@outook.com -> Discord Vtor_ô_Hugo
+- 📫 Contato @Vitor.Toniasso -> vitor.toniasso25@gmail.com -> Discord Vtor_ô_Hugo
 
 - 📖 Sou estudante de Ciência da Computação (3º semestre) e foco meus estudos no ecossistema JavaScript. 
 Tenho um background forte em estilização e UI Design, o que me permite entregar interfaces que respeitam exatamente o que foi projetado no protótipo.
